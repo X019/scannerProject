@@ -1,0 +1,15 @@
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\bin\Debug\net6.0\promiseProject_CrowdStrike.exe
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\bin\Debug\net6.0\promiseProject_CrowdStrike.deps.json
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\bin\Debug\net6.0\promiseProject_CrowdStrike.runtimeconfig.json
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\bin\Debug\net6.0\promiseProject_CrowdStrike.dll
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\bin\Debug\net6.0\ref\promiseProject_CrowdStrike.dll
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\bin\Debug\net6.0\promiseProject_CrowdStrike.pdb
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\obj\Debug\net6.0\promiseProject_CrowdStrike.csproj.AssemblyReference.cache
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\obj\Debug\net6.0\promiseProject_CrowdStrike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\obj\Debug\net6.0\promiseProject_CrowdStrike.AssemblyInfoInputs.cache
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\obj\Debug\net6.0\promiseProject_CrowdStrike.AssemblyInfo.cs
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\obj\Debug\net6.0\promiseProject_CrowdStrike.csproj.CoreCompileInputs.cache
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\obj\Debug\net6.0\promiseProject_CrowdStrike.dll
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\obj\Debug\net6.0\ref\promiseProject_CrowdStrike.dll
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\obj\Debug\net6.0\promiseProject_CrowdStrike.pdb
+C:\Users\Executor\app\Projects\promiseProject_CrowdStrike\obj\Debug\net6.0\promiseProject_CrowdStrike.genruntimeconfig.cache
